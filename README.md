@@ -1,7 +1,6 @@
 # Rubicon
-=========================
 Scalable automated lead scoring service 
-# Stack:
+## Stack:
 * Python
 * Pandas/NumPy/SciPy
 * Gearman
