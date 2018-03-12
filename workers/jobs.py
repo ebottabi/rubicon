@@ -2,6 +2,7 @@
 import sys
 
 sys.path.append("../")
+import tornado
 import json
 from core.utils.libsmq import JSONGearmanWorker
 from core import app
